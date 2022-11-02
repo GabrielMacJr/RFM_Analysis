@@ -5,13 +5,13 @@
 # What is RFM Analysis?
 
 <ul>
-  <li> RFM analysis is a marketing technique used to rank and group customers based on the <b>recency</b>, <b>frequency</b> and <b>monetary value</b> of their recent transactions to identify the best customers and perform targeted marketing campaigns.<br></br>
+  <li> RFM analysis is a marketing technique used to rank and group customers based on the <b>recency</b>, <b>frequency</b> and <b>monetary value</b> of their recent transactions to identify the best customers and perform targeted marketing campaigns.</li>
     
-  <li>The RFM model may assigns a rank of 1 through 5 (from worst to best) for customers in each of the three categories (<b>Recency</b>, <b>Frequency</b>, <b>Monetary Value</b>).The ideal customer would therefore have a score of 555. The higher the customer ranking, the more likely it is that they will do business again with a firm <i>*Various implementations of an RFM analysis system may use slightly different values or scaling*</i>
-  </li><br></br>
+  <li>The RFM model may assigns a rank of 1 through 5 (from worst to best) for customers in each of the three categories (<b>Recency</b>, <b>Frequency</b>, <b>Monetary Value</b>).The ideal customer would therefore have a score of 555. The higher the customer ranking, the more likely it is that they will do business again with a firm. <i>*Various implementations of an RFM analysis model may use slightly different values or scaling when ranking*</i></li>
   
   <li>RFM analysis helps firms reasonably predict which customers are likely to purchase their products again, how much revenue comes from new (versus repeat) clients, and how to turn occasional buyers into habitual ones.
   </li>
+  <li>RFM is then used to identify a company's or an organization's best customers by measuring and analyzing spending habits in order to improve low-scoring customers and maintain high-scoring ones</li>
 </ul>
 
 <ol>
@@ -19,8 +19,6 @@
 <li><b>Frequency</b>: How often a customer makes a purchase.<br>If the purchase cycle can be predicted, for example when a customer needs to buy more groceries, then marketing efforts may be directed towards reminding them to visit the business when staple items run low.</br></li>
 <li><b>Monetary Value</b>: How much money a customer spends on purchases. <br>Customers who spend a lot of money are more likely to spend money in the future and have a high value to a business.</br></li>
 </ol>
-
-
 
 <h6><i>*NTILE(5) function was used to group data into 5 groups. K-means, hierarchical clustering, Gaussian, Spectral Clustering were not used to group data.*</i></h6>
 
