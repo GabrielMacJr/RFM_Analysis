@@ -22,7 +22,7 @@
 <h6><i>*NTILE(5) function was used to group data into 5 groups. K-means, hierarchical clustering, Gaussian, Spectral Clustering were not used to group data.*</i></h6>
 
 
-# SQL Code for RFM Analysis
+#Code for RFM Analysis
 
 <h6>This is the RFM Analysis part, the complete code is available in my repository</h6>
 
