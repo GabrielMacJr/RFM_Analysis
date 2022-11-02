@@ -5,7 +5,7 @@
 # What is RFM Analysis?
 
 <ul>
-  <li> RFM analysis is a marketing technique used to rank and group customers based on the <b>recency</b>, <b>frequency</b> and <b>monetary value</b> of their recent transactions to identify the best customers and perform targeted marketing campaigns.
+  <li> RFM analysis is a marketing technique used to rank and group customers based on the <b>recency</b>, <b>frequency</b> and <b>monetary value</b> of their recent transactions to identify the best customers and perform targeted marketing campaigns.<br>/<br>
     
   <li>The RFM model may assigns a rank of 1 through 5 (from worst to best) for customers in each of the three categories (<b>Recency</b>, <b>Frequency</b>, <b>Monetary Value</b>).The ideal customer would therefore have a score of 555. The higher the customer ranking, the more likely it is that they will do business again with a firm <br><i>*Various implementations of an RFM analysis system may use slightly different values or scaling*</i></br>
   </li>
