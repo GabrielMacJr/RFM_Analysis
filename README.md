@@ -5,7 +5,7 @@
 # What is RFM Analysis?
 
 <ul>
-  <li><b>Recency</b>, <b>frequency</b>, <b>monetary value</b> (RFM) is a model used in marketing analysis that segments a company's consumer base by their purchasing patterns.
+  <li> RFM(<b>Recency</b>, <b>frequency</b>, <b>monetary value</b>) is a model used in marketing analysis that segments a company's consumer base by their purchasing patterns.
 In particular, it evaluates customers' <b>recency</b>, <b>frequency</b> and <b>monetary value</b>.</li>
   <li>The RFM model assigns a rank of 1 through 5 (from worst to best) for customers in each of the three categories (<b>Recency</b>, <b>Frequency</b>, <b>Monetary Value</b>).The ideal customer would therefore have a score of 555. The higher the customer ranking, the more likely it is that they will do business again with a firm
   </li>
