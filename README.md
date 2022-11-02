@@ -14,7 +14,7 @@
 </ul>
 
 <ol>
-<li><b>Recency</b>: How recently a customer has made a purchase.<br>The more recently a customer has made a purchase with a company, the more likely they will continue to keep the business.</br></li>
+<li><b>Recency</b>: How recently a customer has made a purchase.<br>The more recently a customer has made a purchase with a company, the more likely they will continue  purchasing.</br></li>
 <li><b>Frequency</b>: How often a customer makes a purchase.<br>If the purchase cycle can be predicted, for example when a customer needs to buy more groceries, then marketing efforts may be directed towards reminding them to visit the business when staple items run low.</br></li>
 <li><b>Monetary Value</b>: How much money a customer spends on purchases. <br>Customers who spend a lot of money are more likely to spend money in the future and have a high value to a business.</br></li>
 </ol>
