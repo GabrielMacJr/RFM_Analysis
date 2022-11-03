@@ -19,7 +19,7 @@
 <li><b>Monetary Value</b>: How much money a customer spends on purchases. <br>Customers who spend a lot of money are more likely to spend money in the future and have a high value to a business.</br></li>
 </ol>
 
-<h6><i>*NTILE(5) function was used to group data into 5 groups. K-means, hierarchical clustering, Gaussian, Spectral Clustering were not used to group data.*</i></h6>
+<h6><i>*NTILE(5) function is used to group data into 5 groups. K-means, hierarchical clustering, Gaussian, Spectral Clustering were not used to group data.*</i></h6>
 
 
 # Code for RFM Analysis
