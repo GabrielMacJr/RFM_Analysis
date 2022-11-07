@@ -24,6 +24,6 @@
 
 # Code for RFM Analysis
 
-<h6>This is the RFM Analysis part, the complete code is available in my repository</h6>
+<h6>This is the RFM segmentation code part, the complete code is available in my repository</h6>
 
 ![RFManalysis](https://user-images.githubusercontent.com/110753469/199351827-affb5f57-d1cb-423f-b38a-cd134bf5f10e.PNG)
