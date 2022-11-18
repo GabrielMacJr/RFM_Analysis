@@ -1,6 +1,6 @@
 # RFM Analysis
 
-<b>Goal</b>: Use T-SQL to perform RFM analysis on sales data.
+<b>Goal</b>: Use TSQL to perform RFM analysis on sales data.
 
 # What is RFM Analysis?
 
