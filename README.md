@@ -1,3 +1,11 @@
+
+
+
+<p align = "center">
+<img width = 650px height = 450px src = "https://user-images.githubusercontent.com/110753469/208200867-0d9ef64a-043a-4dce-9af6-d3898227aac2.png">
+</p>
+
+
 # RFM Analysis
 
 <b>Goal</b>: Use TSQL to perform RFM analysis on sales data.
