@@ -1,0 +1,99 @@
+﻿CUSTOMERNAME                                       rfm_recency          rfm_frequency        rfm_monetary         segment
+-------------------------------------------------- -------------------- -------------------- -------------------- -----------------------
+Bavarian Collectables Imports, Co.                 1                    1                    1                    A lost customer
+Double Decker Gift Stores, Ltd                     1                    1                    1                    A lost customer
+Cambridge Collectables Co.                         1                    1                    1                    A lost customer
+West Coast Collectables Co.                        1                    1                    1                    A lost customer
+Men 'R' US Retailers, Ltd.                         1                    1                    1                    A lost customer
+CAF Imports                                        1                    1                    1                    A lost customer
+Signal Collectibles Ltd.                           1                    1                    1                    A lost customer
+Online Mini Collectables                           1                    1                    1                    A lost customer
+Diecast Collectables                               1                    1                    2                    A lost customer
+Super Scale Inc.                                   1                    1                    2                    A lost customer
+Osaka Souveniers Co.                               1                    2                    2                    A lost customer
+Daedalus Designs Imports                           1                    2                    2                    A lost customer
+Royal Canadian Collectables, Ltd.                  1                    3                    2                    A lost customer
+Norway Gifts By Mail, Co.                          1                    3                    2                    A lost customer
+Collectable Mini Designs Co.                       1                    3                    3                    Lost big spender
+Amica Models & Co.                                 1                    3                    3                    Lost big spender
+Herkku Gifts                                       1                    4                    4                    Lost big spender
+Vida Sport, Ltd                                    1                    4                    4                    Lost big spender
+Saveley & Henriot, Co.                             1                    5                    5                    Lost big spender
+Clover Collections, Co.                            2                    1                    1                    Losing a customer
+Iberia Gift Imports, Corp.                         2                    1                    1                    Losing a customer
+Microscale Inc.                                    2                    1                    1                    Losing a customer
+Auto Assoc. & Cie.                                 2                    2                    2                    Losing a customer
+Classic Gift Ideas, Inc                            2                    2                    2                    Losing a customer
+Canadian Gift Exchange Network                     2                    2                    2                    Losing a customer
+Blauer See Auto, Co.                               2                    2                    3                    Losing a customer
+giftsbymail.co.uk                                  2                    3                    2                    Losing a customer
+Mini Classics                                      2                    3                    3                    Losing a customer
+Cruz & Sons Co.                                    2                    3                    3                    Losing a customer
+Vitachrome Inc.                                    2                    3                    3                    Losing a customer
+Toms Spezialitten, Ltd                             2                    3                    3                    Losing a customer
+Heintze Collectables                               2                    3                    3                    Losing a customer
+Marta's Replicas Co.                               2                    3                    4                    A potential big spender
+Corrida Auto Replicas, Ltd                         2                    4                    4                    A potential big spender
+Online Diecast Creations Co.                       2                    4                    4                    A potential big spender
+Baane Mini Imports                                 2                    4                    4                    A potential big spender
+Land of Toys Inc.                                  2                    5                    5                    A potential big spender
+Rovelli Gifts                                      2                    5                    5                    A potential big spender
+Atelier graphique                                  3                    1                    1                    Losing a customer
+Auto-Moto Classics Inc.                            3                    1                    1                    Losing a customer
+Gift Ideas Corp.                                   3                    2                    1                    Losing a customer
+Enaco Distributors                                 3                    2                    2                    Losing a customer
+Mini Wheels Co.                                    3                    2                    2                    Losing a customer
+Volvo Model Replicas, Co                           3                    2                    2                    Losing a customer
+Classic Legends Inc.                               3                    2                    2                    Losing a customer
+Motor Mint Distributors Inc.                       3                    2                    3                    A potential big spender
+La Corne D'abondance, Co.                          3                    2                    3                    A potential big spender
+Marseille Mini Autos                               3                    3                    2                    Losing a customer
+Stylish Desk Decors, Co.                           3                    3                    3                    A potential big spender
+Signal Gift Stores                                 3                    4                    3                    A potential big spender
+Technics Stores Inc.                               3                    4                    4                    Big Spender
+Suominen Souveniers                                3                    4                    4                    Big Spender
+Mini Creations Ltd.                                3                    4                    4                    Big Spender
+Muscle Machine Inc                                 3                    5                    5                    Big Spender
+Australian Collectors, Co.                         3                    5                    5                    Big Spender
+AV Stores, Co.                                     3                    5                    5                    Big Spender
+Australian Gift Network, Co                        4                    1                    1                    New customer
+Boards & Toys Co.                                  4                    1                    1                    New customer
+Royale Belge                                       4                    1                    1                    New customer
+Mini Auto Werke                                    4                    1                    1                    New customer
+Alpha Cognac                                       4                    2                    2                    New customer
+Lyon Souveniers                                    4                    2                    2                    New customer
+Tekni Collectables Inc.                            4                    2                    3                    New customer
+Collectables For Less Inc.                         4                    3                    3                    New customer
+FunGiftIdeas.com                                   4                    3                    3                    New customer
+Auto Canal Petit                                   4                    4                    3                    New customer
+Toys of Finland, Co.                               4                    4                    4                    Big Spender
+Oulu Toy Supplies, Inc.                            4                    4                    4                    Big Spender
+Toys4GrownUps.com                                  4                    4                    4                    Big Spender
+Scandinavian Gift Ideas                            4                    5                    4                    Big Spender
+Reims Collectables                                 4                    5                    5                    Big Spender
+Anna's Decorations, Ltd                            4                    5                    5                    Big Spender
+Corporate Gift Ideas Co.                           4                    5                    5                    Big Spender
+Dragon Souveniers, Ltd.                            4                    5                    5                    Big Spender
+Australian Collectables, Ltd                       5                    2                    1                    New customer
+Quebec Home Shopping Network                       5                    2                    2                    New customer
+Mini Caravy                                        5                    2                    3                    New customer
+Petit Auto                                         5                    3                    2                    New customer
+Gifts4AllAges.com                                  5                    3                    3                    New customer
+Gift Depot Inc.                                    5                    3                    4                    Big Spender
+Handji Gifts& Co                                   5                    4                    4                    Big Spender
+Diecast Classics Inc.                              5                    4                    4                    Big Spender
+UK Collectables, Ltd.                              5                    4                    4                    Big Spender
+Tokyo Collectables, Ltd                            5                    4                    4                    Big Spender
+Danish Wholesale Imports                           5                    4                    5                    Big Spender
+Salzburg Collectables                              5                    5                    5                    Top Client
+Souveniers And Things Co.                          5                    5                    5                    Top Client
+The Sharp Gifts Warehouse                          5                    5                    5                    Top Client
+La Rochelle Gifts                                  5                    5                    5                    Top Client
+Mini Gifts Distributors Ltd.                       5                    5                    5                    Top Client
+Euro Shopping Channel                              5                    5                    5                    Top Client
+L'ordine Souveniers                                5                    5                    5                    Top Client
+
+(92 rows affected)
+
+
+Completion time: 2022-12-16T08:46:13.5310978-08:00
