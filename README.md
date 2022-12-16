@@ -29,7 +29,7 @@
 <h6><i>*NTILE(5) function is used to group the data into 5 groups. K-means, hierarchical clustering, Gaussian, Spectral Clustering were not used to group data.*</i></h6>
 
 
-# Code for RFM Analysis
+# RFM Analysis Code : [Click Here](https://github.com/GabrielMacJr/RFM_Analysis/blob/master/RFMSQLQuery.sql)
 
 <h6>This is the RFM segmentation code part, the complete code is available in my repository</h6>
 
