@@ -7,7 +7,7 @@
 
 
 # Objective
-<b>Goal</b>: Use TSQL to perform RFM segmentation analysis on sales data.
+Use TSQL to perform RFM segmentation analysis on sales data.
 
 # What is RFM Analysis?
 
